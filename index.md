@@ -1,1 +1,1 @@
-<h1><strong>Welcome to LearningItalian</strong></h1>
+<h1><strong>Welcome to LearnItalian</strong></h1>

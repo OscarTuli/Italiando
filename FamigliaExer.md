@@ -17,4 +17,4 @@
 
 <hr>
 
-<a href="index.html">Back to the homepage</a> 
+<a href="index.html"> Back to the homepage </a> 

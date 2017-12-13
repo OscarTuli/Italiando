@@ -13,5 +13,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RlRT-ZBRso?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
   
   <hr>
-  
-<a href="https://oscartuli.github.io/Italiando/FamigliaExer.html">Click here for the exercises</a> 
+<p> 
+<a style="float:right;" href="https://oscartuli.github.io/Italiando/FamigliaExer.html">Click here for the exercises</a> 
+<a style="float:left;" href="index.html">Back to the homepage</a> 
+</p>
+<div style="clear:both;"></div>

@@ -10,3 +10,12 @@
 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kMQzqHLBCSE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<hr>
+
+<p> 
+<a style="float:right;" href="https://oscartuli.github.io/Italiando/MestieriExer.html">Click here for the exercises</a> 
+<a style="float:left;" href="index.html">Back to the homepage</a> 
+</p>
+
+<div style="clear:both;"></div>

@@ -22,3 +22,14 @@
 <h2>Italian Culture</h2>
 
 <p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>
+
+
+
+
+<hr>
+
+
+<footer>
+  <p>Student Number: 161021892</p>
+  <p>Contact information: <a href="mailto:oscartulimiero@hotmail.com">oscartulimiero@hotmail.com</a>.</p>
+</footer>

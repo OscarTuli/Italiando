@@ -10,7 +10,7 @@
    Here you will find not only videos containing useful vocabulary, but also slides to learn the grammar of this beautiful language!</h4>
   </p>
 
-
+<hr>
 <h2><i>Vocabulary</i></h2>
 
 <ul>

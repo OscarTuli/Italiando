@@ -20,3 +20,10 @@
 <h2><i>Grammar</i></h2>
 <ul>
 <li><a href="https://oscartuli.github.io/Italiando/Gender.html">Genere - Maschile o Femminile? (Gender - Masculine or Feminine?)</a></li></ul>
+
+
+
+<footer>
+  <p>Student Number: 161021892</p>
+  <p>Contact information: <a href="mailto:oscartulimiero@hotmail.com">oscartulimiero@hotmail.com</a>.</p>
+</footer>

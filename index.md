@@ -23,6 +23,14 @@
 
 
 
+
+
+
+
+
+<hr>
+
+
 <footer>
   <p>Student Number: 161021892</p>
   <p>Contact information: <a href="mailto:oscartulimiero@hotmail.com">oscartulimiero@hotmail.com</a>.</p>

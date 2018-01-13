@@ -28,7 +28,7 @@
 
 <p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg/1280px-Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg/1280px-Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg" heigth="65%" lenght="80%">
 <p> Napoli (Naples), IT</p>
 
 

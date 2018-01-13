@@ -16,4 +16,4 @@
 
 <h2><i>Grammar</i></h2>
 <ul>
-<li><a href="https://oscartuli.github.io/Italiando/Gender.html">Gender - Masculine or Feminine?</a></li></ul>
+<li><a href="https://oscartuli.github.io/Italiando/Gender.html">Genere - Maschile o Femminile? (Gender - Masculine or Feminine?)</a></li></ul>

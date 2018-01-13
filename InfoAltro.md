@@ -24,9 +24,7 @@
 
 <p>To improve your Italian, we highly recommend this <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">website</a></p>
 
-<h2>Italian Culture</h2>
-
-<img src="https://c1.staticflickr.com/8/7092/13963870801_4866d8314e_b.jpg" width="20%" float="right">
+<h2>Italian Culture</h2> <img src="https://c1.staticflickr.com/8/7092/13963870801_4866d8314e_b.jpg" width="20%">
 
 <p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>
 

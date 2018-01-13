@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+  <li><a href="index.html">Home</a></li>
+  <li>Mestieri</li>
+</ul>
+
 <h1><i> Benvenuti nella sezione <strong>"Mestieri"</strong>!</i></h1>
 <h2><i> Welcome to the <strong>"Mestieri"</strong> section!</i></h2>
 

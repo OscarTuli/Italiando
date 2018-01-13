@@ -10,7 +10,8 @@ img {
     float: right;
     border: 1px dotted black;
     margin: 0px 0px 15px 20px;
-} <img src="https://c1.staticflickr.com/1/219/482815089_0860b38e34_b.jpg" width="50%"></p>
+} 
+  <img src="https://c1.staticflickr.com/1/219/482815089_0860b38e34_b.jpg" width="50%"></p>
 
 
 <h2><i>Vocabulary</i></h2>

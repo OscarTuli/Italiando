@@ -15,6 +15,10 @@
 "Desperate times call for drastic measures!"
 
 
-<h3>Further info</h3>
+<h2>Further info</h2>
+
+<p>To improve your Italian, we highly recommend this <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">website</a></p>
+
+<h2>Italian Culture</h2>
 
 <p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>

@@ -9,5 +9,4 @@
 
 
 <h3>If you want to know about Italy, about its culture and more interesting facts...</h3>
-<p> You can visit this <a href:"https://www.livescience.com/44376-italian-culture.html">page</a>
-<a href="http://www.yahoo.com">here</a>
+<p> ...You can visit this interesting <a href:"https://www.livescience.com/44376-italian-culture.html">page</a>!</p>

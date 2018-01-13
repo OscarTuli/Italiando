@@ -8,4 +8,4 @@
 <h2><i>Welcome to the <strong>"Info & Other"</strong> section!</i></h2>
 
 
-<p>Do you want to know more about Italy, its culture and other interesting facts? Click<a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>
+<p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>

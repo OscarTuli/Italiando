@@ -20,8 +20,6 @@
 
 <h2>Further info</h2>
 
-<img src="https://cdn.pixabay.com/photo/2017/01/31/00/09/book-2022464_960_720.png" width="15%" float="right">
-
 <p>To improve your Italian, we highly recommend this <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">website</a></p>
 
 <h2>Italian Culture</h2> <img src="https://c1.staticflickr.com/8/7092/13963870801_4866d8314e_b.jpg" width="20%">

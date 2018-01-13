@@ -1,6 +1,6 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li>Famiglia</li>
+  <li>Info&Altro</li>
 </ul>
 
 <h1><i>Benvenuti nella sezione <strong>"Info & Altro"</strong>!</i></h1>

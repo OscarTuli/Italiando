@@ -1,5 +1,12 @@
-<h1>Benvenuti nella sezione "Info & Altro"</h1>
+<ul class="breadcrumb">
+  <li><a href="index.html">Home</a></li>
+  <li>Famiglia</li>
+</ul>
+
+<h1><i>Benvenuti nella sezione <strong>"Info & Altro"</strong>!</i></h1>
+
+<h2><i>Welcome to the <strong>"Info & Other"</strong> section!</i></h2>
 
 
-
-<a href:"https://www.livescience.com/44376-italian-culture.html">here</a>
+<h3>If you want to know about Italy, about its culture and more interesting facts...</h3>
+<p> You can visit this <a href:"https://www.livescience.com/44376-italian-culture.html"> page </a>

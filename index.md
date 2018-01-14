@@ -11,7 +11,7 @@
  </p>
  
   <img src="https://c1.staticflickr.com/1/219/482815089_0860b38e34_b.jpg" width="70%">
-  <h4>Il tricolore italiano</h4>
+  <p>Il tricolore italiano</p>
 
 <hr>
 <h2><i>Vocabulary</i></h2>

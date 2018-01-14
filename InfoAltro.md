@@ -7,7 +7,7 @@
 
 <h2><i>Welcome to the <strong>"Info & Other"</strong> section!</i></h2>
 
-<img src="https://cdn.pixabay.com/photo/2017/04/15/20/17/italy-2233374_960_720.jpg" width="50%">
+<img src="http://maxpixel.freegreatpicture.com/static/photo/1x/Italy-Water-Boot-Venezia-Travel-City-Venice-2814715.jpg" width="50%">
 <p>Venezia (Venice), IT</p>
 
 <h3> Detto della settimana - Saying of the week </h3>

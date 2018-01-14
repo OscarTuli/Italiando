@@ -26,8 +26,8 @@
 
 <h2>Further info</h2>
 
-<p>To improve your Italian, we highly recommend <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">Duolingo</a>
- It is one of the most popular for learning a language online, it is completely free, really simple to use! You just need to create a profile and choose a target language (in this case, Italian)! Each language course is made up of many different modules and lessons, and you will need to complete each lesson before proceeding to the next! Also, the website tracks your daily progress, so that you have an idea of what your level should be! Try it yourself, you won't be disappointed!
+<p>To improve your Italian, we highly recommend <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">Duolingo</a>!
+It is one of the most popular websites for learning a language. It is completely free and very simple to use! You just need to create a profile and choose a target language (in this case, Italian)! Each language course is made up of many different modules and lessons, and you will need to complete each lesson before proceeding to the next! Also, the website tracks your daily progress, so that you have an idea of what your level should be! Try it yourself, you won't be disappointed!
 </p>
 
 

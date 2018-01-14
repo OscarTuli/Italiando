@@ -8,7 +8,7 @@
 <h2><i>Welcome to the <strong>"Info & Other"</strong> section!</i></h2>
 
 <img src="https://cdn.pixabay.com/photo/2017/04/15/20/17/italy-2233374_960_720.jpg">
-<Venezia (Venice), IT>
+<p>Venezia (Venice), IT</p>
 
 <h3> Detto della settimana - Saying of the week </h3>
 
@@ -20,11 +20,13 @@
 
 <h2>Further info</h2>
 
+<img src="https://cdn.pixabay.com/photo/2017/01/31/00/09/book-2022464_960_720.png" width="15%" float="right">
+
 <p>To improve your Italian, we highly recommend this <a href="https://www.duolingo.com/course/it/en/Learn-Italian-Online">website</a></p>
 
-<h2>Italian Culture</h2> <img src="https://c1.staticflickr.com/8/7092/13963870801_4866d8314e_b.jpg" width="20%">
+<h2>Italian Culture</h2> 
 
-<p>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></p>
+<p><strong>Do you want to know more about Italy, its culture and other interesting facts? Click <a href="https://www.livescience.com/44376-italian-culture.html">here</a></strong></p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg/1280px-Napoli_-_Golfo_all%27alba_dalla_stazione_marittima_-_panoramio.jpg" heigth="65%" lenght="80%">
 <p> Napoli (Naples), IT</p>

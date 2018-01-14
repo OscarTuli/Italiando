@@ -7,7 +7,7 @@
 
 <p>
   <h4><i>Italiando</i> is a website that helps you learn Italian through a series of activities. 
-   Here you will find not only videos containing useful vocabulary, but also slides, exercises and link to other websites containing interesting information about Italy!</h4>
+   Here you will find not only videos containing useful vocabulary, but also grammar lessons and exercises and links to other websites containing interesting information about Italy!</h4>
  </p>
  
   <img src="https://c1.staticflickr.com/1/219/482815089_0860b38e34_b.jpg" width="70%">

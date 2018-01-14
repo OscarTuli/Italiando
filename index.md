@@ -25,11 +25,10 @@
 <ul>
 <li><a href="https://oscartuli.github.io/Italiando/Gender.html">Genere - Maschile o Femminile? (Grammatical Gender)</a></li></ul>
 
- <img src="http://www.publicdomainpictures.net/pictures/230000/nahled/taormina-italy-14980063948Ii.jpg">
+<hr>
 
-
-
-
+<img src="http://www.publicdomainpictures.net/pictures/230000/nahled/taormina-italy-14980063948Ii.jpg">
+<p>Taormina, IT</p>
 
 <hr>
 

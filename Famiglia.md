@@ -7,7 +7,7 @@
 
 <h2><i>Welcome to the <strong>"Family"</strong> section!</i></h2>
 <p>Here you will learn the Italian names of <b>family members</b>.
-  Watch the video, listen and <u> memorise </u> the names, then click on the link below to go<p>
+  Watch the video, listen and <u> memorise </u> the names, then click on the link below for the exercises.<p>
 <hr>
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2RlRT-ZBRso?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

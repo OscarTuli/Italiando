@@ -9,7 +9,8 @@
 <p>Here you will learn to recognise the <strong>gender</strong> of nouns in Italian and to use the correct article for each noun!
   <u> Read carefully </u> the rules provided in the slides, then click on the link below to do the exercises.<p>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSH_V2-GzBdPhSr2AgbG1FkTjAyKyWtXqS_h2mO8WYoWFdGekut3Pzar0LJ1QV2-yVT0j3BZSFgd6PF/embed?start=false&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSH_V2-GzBdPhSr2AgbG1FkTjAyKyWtXqS_h2mO8WYoWFdGekut3Pzar0LJ1QV2-yVT0j3BZSFgd6PF/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <hr>
 
 <p> 

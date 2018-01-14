@@ -6,11 +6,12 @@
 <h1><i><strong>Welcome to Italiando</strong></i></h1>
 
 <p>
-  <h4>Italiando is a website that helps you learn Italian through a series of interesting activities. 
-   Here you will find not only videos containing useful vocabulary, but also slides to learn the grammar of this beautiful language!</h4>
+  <h4><i>Italiando</i> is a website that helps you learn Italian through a series of activities. 
+   Here you will find not only videos containing useful vocabulary, but also slides, exercises and link to other websites containing interesting information about Italy!</h4>
  </p>
  
   <img src="https://c1.staticflickr.com/1/219/482815089_0860b38e34_b.jpg" width="70%">
+  <h4>Il tricolore italiano</h4>
 
 <hr>
 <h2><i>Vocabulary</i></h2>
@@ -22,10 +23,9 @@
 <h2><i>Grammar</i></h2>
 
 <ul>
-<li><a href="https://oscartuli.github.io/Italiando/Gender.html">Genere - Maschile o Femminile? (Gender - Masculine or Feminine?)</a></li></ul>
+<li><a href="https://oscartuli.github.io/Italiando/Gender.html">Genere - Maschile o Femminile? (Grammatical Gender)</a></li></ul>
 
-
-
+ <img src="http://www.publicdomainpictures.net/pictures/230000/nahled/taormina-italy-14980063948Ii.jpg">
 
 
 
